@@ -1,3 +1,3 @@
 <?php
-echo "Belajar git 🤔";
+echo "Belajar git 🤔 👉😁";
 ?>
